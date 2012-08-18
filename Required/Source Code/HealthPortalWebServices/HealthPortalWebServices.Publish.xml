@@ -1,0 +1,31 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost">
+    <file relUrl="Globals.cs" publishTime="03/31/2012 20:15:15" />
+    <file relUrl="Users/User.cs" publishTime="03/31/2012 20:36:23" />
+    <file relUrl="HealthPortalWebServices.AppointmentService.svc" publishTime="04/01/2012 12:15:14" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="03/31/2012 19:02:14" />
+    <file relUrl="Patient/Diagnosis.cs" publishTime="03/31/2012 20:00:31" />
+    <file relUrl="IAdminService.cs" publishTime="04/01/2012 11:01:26" />
+    <file relUrl="HealthPortalWebServices.csproj" publishTime="04/01/2012 04:15:12" />
+    <file relUrl="HealthPortalWebServices.csproj.user" publishTime="04/01/2012 11:20:19" />
+    <file relUrl="bin/HealthPortalWebServices.dll.config" publishTime="04/01/2012 06:39:30" />
+    <file relUrl="AdminService.cs" publishTime="04/01/2012 11:15:08" />
+    <file relUrl="Users/Patient.cs" publishTime="03/31/2012 21:25:43" />
+    <file relUrl="Users/Doctor.cs" publishTime="03/31/2012 22:23:17" />
+    <file relUrl="AppointmentService.cs" publishTime="04/01/2012 10:50:57" />
+    <file relUrl="HealthPortalWebServices.UserManagementService.svc" publishTime="04/01/2012 12:15:14" />
+    <file relUrl="UserManagementService.cs" publishTime="04/01/2012 08:01:59" />
+    <file relUrl="IPatientManagementService.cs" publishTime="04/01/2012 04:02:53" />
+    <file relUrl="IAppointmentService.cs" publishTime="04/01/2012 10:51:12" />
+    <file relUrl="QueryBuilder.cs" publishTime="04/01/2012 11:12:50" />
+    <file relUrl="Users/HospitalAdministrator.cs" publishTime="04/01/2012 10:59:02" />
+    <file relUrl="bin/HealthPortalWebServices.pdb" publishTime="04/01/2012 11:31:48" />
+    <file relUrl="App.config" publishTime="04/01/2012 06:39:30" />
+    <file relUrl="Web.config" publishTime="04/01/2012 06:39:30" />
+    <file relUrl="IUserManagementService.cs" publishTime="04/01/2012 04:59:43" />
+    <file relUrl="HealthPortalWebServices.AdminService.svc" publishTime="04/01/2012 12:15:14" />
+    <file relUrl="bin/HealthPortalWebServices.dll" publishTime="04/01/2012 11:31:49" />
+    <file relUrl="Utilities.cs" publishTime="04/01/2012 07:33:18" />
+    <file relUrl="Patient/History.cs" publishTime="03/31/2012 19:39:10" />
+  </publishTarget>
+</publishData>

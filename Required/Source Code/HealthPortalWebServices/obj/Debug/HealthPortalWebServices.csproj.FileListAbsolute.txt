@@ -1,0 +1,6 @@
+C:\Users\Zeshan\documents\visual studio 2010\Projects\HealthPortalWebServices\HealthPortalWebServices\bin\Debug\HealthPortalWebServices.dll.config
+C:\Users\Zeshan\documents\visual studio 2010\Projects\HealthPortalWebServices\HealthPortalWebServices\bin\Debug\HealthPortalWebServices.dll
+C:\Users\Zeshan\documents\visual studio 2010\Projects\HealthPortalWebServices\HealthPortalWebServices\bin\Debug\HealthPortalWebServices.pdb
+C:\Users\Zeshan\documents\visual studio 2010\Projects\HealthPortalWebServices\HealthPortalWebServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zeshan\documents\visual studio 2010\Projects\HealthPortalWebServices\HealthPortalWebServices\obj\Debug\HealthPortalWebServices.dll
+C:\Users\Zeshan\documents\visual studio 2010\Projects\HealthPortalWebServices\HealthPortalWebServices\obj\Debug\HealthPortalWebServices.pdb

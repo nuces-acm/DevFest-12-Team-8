@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="38265a60-086a-45d7-9ff3-7abd913a34fc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8732/Design_Time_Addresses/HealthPortalWebServices/UserManagementService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="f8ccf294-0334-42e6-a70a-271018d352e3" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/HealthPortalWebServices/UserManagementService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="f97f3a9c-39cb-4cb3-bf43-d73794484970" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/HealthPortalWebServices/UserManagementService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="46aec1fd-d6c7-45fa-ae8b-0fa292db7f9e" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/HealthPortalWebServices/UserManagementService/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="bd892a4e-81c8-4fa2-be9f-716dfea1296b" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/HealthPortalWebServices/UserManagementService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
